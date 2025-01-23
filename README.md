@@ -39,7 +39,7 @@ Inline Calculator Bot is a Telegram bot built with aiogram 3.x that allows users
    - aiogram 3.x
 ---
 ## Example usage
-- Inline qeury: ```@YourBot 12/4```
+- Inline query: ```@YourBot 12/4```
 - Result:
   ```bash
   12/4=3
@@ -51,4 +51,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ---
 
 ## Socials
-- [TikTok](https://www.tiktok.com/@muxacodee) | [Instagram](https://www.instagram.com/muxacodee) | [Telegram](https://t.me/muxacodee) | [YouTube](https://www.youtube.com/@muxacodee)
+**[TikTok](https://www.tiktok.com/@muxacodee) | [Instagram](https://www.instagram.com/muxacodee) | [Telegram](https://t.me/muxacodee) | [YouTube](https://www.youtube.com/@muxacodee)**
