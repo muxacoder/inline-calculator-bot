@@ -21,15 +21,18 @@ Inline Calculator Bot is a Telegram bot built with aiogram 3.x that allows users
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/inline-calculator-bot.git
+   git clone https://github.com/muxacoder/inline-calculator-bot.git
    cd inline-calculator-bot
    ```
-2. Install dependencies:
+2. Enable **inline mode** for your bot:
+    - Open [BotFather](https://t.me/botfather) in Telegram.
+    - Use the command ```/setinline``` and follow the prompts to enable inline queries for your bot.
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Replace BOT TOKEN in .env file with your Telegram bot token from [BotFather](https://t.me/botfather)
-4. Run the Bot
+4. Replace BOT_TOKEN in .env file with your Telegram bot token from [BotFather](https://t.me/botfather)
+5. Run the Bot
    ```bash
    python app.py
    ```
