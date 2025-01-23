@@ -47,3 +47,8 @@ Inline Calculator Bot is a Telegram bot built with aiogram 3.x that allows users
 --- 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
+
+---
+
+## Socials
+- [TikTok](https://www.tiktok.com/@muxacodee) | [Instagram](https://www.instagram.com/muxacodee) | [Telegram](https://t.me/muxacodee) | [YouTube](https://www.youtube.com/@muxacodee)
